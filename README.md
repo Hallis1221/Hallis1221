@@ -1,4 +1,4 @@
-### Hi, idk how to make this look good 👋
+### Enslaving computers since 2018
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hallis1221&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
